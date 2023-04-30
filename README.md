@@ -14,27 +14,27 @@ Regex_with_pandas_and_named_groups.ipynb
 Working_with_text.ipynb
 
 week2:
-Assignment2.pdf 
-Assignment2.py 
-Assignment2.ipynb 
-moby.txt 
-Module2.ipynb 
-Module2.pdf 
-Module2.py 
+Assignment2.pdf   
+Assignment2.py   
+Assignment2.ipynb   
+moby.txt   
+Module2.ipynb   
+Module2.pdf   
+Module2.py   
 mygrammar.cfg
 
 week3:
-Amazon_unlocked_Mobile.zip (csv data) 
-Assignment3.pdf 
-Assignment3.py 
-Assignment3.ipynb 
-Case_study_SentimentAnalysis.pdf 
-Case_study_SentimentAnalysis.py 
+Amazon_unlocked_Mobile.zip (csv data)   
+Assignment3.pdf   
+Assignment3.py   
+Assignment3.ipynb   
+Case_study_SentimentAnalysis.pdf  
+Case_study_SentimentAnalysis.py  
 spam.csv
 
 week4:
-Assignment4.pdf 
-Assignment4.py 
-Assignment4.ipynb 
-newsgroups (data to be read in python, no format specified) 
+Assignment4.pdf   
+Assignment4.py   
+Assignment4.ipynb  
+newsgroups (data to be read in python, no format specified)   
 paraphrases.csv
